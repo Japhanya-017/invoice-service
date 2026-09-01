@@ -8,6 +8,7 @@ h11==0.16.0
 idna==3.19
 psycopg==3.3.4
 psycopg-binary==3.3.4
+SQLAlchemy==2.0.52
 pydantic==2.13.4
 pydantic-settings==2.15.0
 pydantic_core==2.46.4
